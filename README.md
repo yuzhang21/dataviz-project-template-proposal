@@ -1,5 +1,7 @@
 # Data Visualization Project
 
+(This proposal is directly forked from the example. I will keep it as a reference and not updated it to my own proposal. 9/22/2019)
+
 ## Data
 
 The data I propose to visualize for my project is ...
